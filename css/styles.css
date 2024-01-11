@@ -75,7 +75,7 @@ margin:0;}
 }
 .box-title .button-title:hover,
 .box-title .button-title:focus{
-    color:#404BBF;
+    background-color:#404BBF;
 }
 .skills{
     color:#2E2F42;
