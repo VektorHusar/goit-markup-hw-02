@@ -22,8 +22,8 @@ margin:0;}
     font-family:"Raleway",sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 0.03em;
-    letter-spacing: 0.54px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .logo-part{
@@ -73,8 +73,8 @@ margin:0;}
     letter-spacing: 0.04em;
     cursor: pointer;
 }
-.button-title:hover,
-.button-title:focus{
+.box-title .button-title:hover,
+.box-title .button-title:focus{
     color:#404BBF;
 }
 .skills{
