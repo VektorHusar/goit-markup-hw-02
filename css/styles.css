@@ -11,9 +11,7 @@ margin: auto;
 padding-left: 0;}
 h1,h2,h3,h4,h5,h6,p{
 margin:0;}
-address{
-font-style: normal;
-}
+
 /* Header */
 .box-head{
     justify-content: center;
@@ -41,12 +39,15 @@ font-style: normal;
     color: #404BBF;
 }
 .contacts{
+    font-style: normal;
+}
+.contacts-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     }
-.contacts:hover,
-.contacts:focus
+.contacts-link:hover,
+.contacts-link:focus
 {
     color: #404BBF;
 }
